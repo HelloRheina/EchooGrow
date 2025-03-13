@@ -1,0 +1,51 @@
+index,time,sentence,sentiment_score,emotion,paralinguistic_events
+1,2025-03-11 09:00:01,I'm excited about the new game!,0.95,Happy,Speech
+2,2025-03-11 09:05:12,I feel a bit sad about missing my friend.,0.15,Sad,Speech
+3,2025-03-11 09:10:30,Today was an average day.,0.5,Neutral,Speech
+4,2025-03-11 09:15:45,I'm really angry at the way things turned out.,0.1,Anger,Cry
+5,2025-03-11 09:20:00,I am happy with my drawing.,0.9,Happy,Applause
+6,2025-03-11 09:25:10,I feel scared in the dark.,0.2,Fear,Cough
+7,2025-03-11 09:30:22,I love playing outside!,0.95,Happy,Laughter
+8,2025-03-11 09:35:33,I dislike doing homework.,0.3,Disgust,Speech
+9,2025-03-11 09:40:45,I feel excited about the upcoming trip.,0.93,Surprise,Speech
+10,2025-03-11 09:45:55,I'm frustrated with the difficult puzzle.,0.25,Anger,Breath
+11,2025-03-11 09:50:05,I enjoyed the fun story we read.,0.92,Happy,Laughter
+12,2025-03-11 09:55:15,I'm upset because I lost my toy.,0.12,Sad,Cry
+13,2025-03-11 10:00:25,It was a normal day at school.,0.5,Neutral,Speech
+14,2025-03-11 10:05:35,I feel delighted when I get ice cream.,0.96,Happy,Speech
+15,2025-03-11 10:10:45,I am disappointed with my test result.,0.22,Sad,Cry
+16,2025-03-11 10:15:55,I am thrilled about the art project.,0.94,Surprise,Applause
+17,2025-03-11 10:20:05,I feel bored during the long class.,0.4,Neutral,Speech
+18,2025-03-11 10:25:15,I am curious about how plants grow.,0.85,Surprise,Speech
+19,2025-03-11 10:30:25,I'm happy to see my family after school.,0.97,Happy,Laughter
+20,2025-03-11 10:35:35,I feel upset when things don't go my way.,0.18,Sad,Cry
+21,2025-03-11 10:40:45,I love playing with my friends.,0.96,Happy,Speech
+22,2025-03-11 10:45:55,I feel frustrated by the challenging game.,0.28,Anger,Breath
+23,2025-03-11 10:50:05,I am proud of my painting.,0.92,Happy,Speech
+24,2025-03-11 10:55:15,I feel anxious before the performance.,0.3,Fear,Cough
+25,2025-03-11 11:00:25,I enjoyed the funny cartoon on TV.,0.93,Happy,Speech
+26,2025-03-11 11:05:35,I feel lonely when I'm not with friends.,0.2,Sad,Cry
+27,2025-03-11 11:10:45,I'm excited about learning new things.,0.94,Surprise,Laughter
+28,2025-03-11 11:15:55,I feel indifferent about the new rules.,0.5,Neutral,Breath
+29,2025-03-11 11:20:05,I'm impressed by the magic show.,0.91,Surprise,Applause
+30,2025-03-11 11:25:15,I feel irritated when I have to wait.,0.27,Anger,Cough
+31,2025-03-11 11:30:25,I am joyful when I play my favorite song.,0.96,Happy,Speech
+32,2025-03-11 11:35:35,I feel down because I missed the bus.,0.18,Sad,Cry
+33,2025-03-11 11:40:45,I am delighted by the birthday party.,0.95,Happy,Speech
+34,2025-03-11 11:45:55,I feel shocked by the sudden change.,0.35,Surprise,Sneeze
+35,2025-03-11 11:50:05,I am content with my daily routine.,0.88,Neutral,Speech
+36,2025-03-11 11:55:15,I feel cheerful after playing with my pet.,0.94,Happy,Laughter
+37,2025-03-11 12:00:25,I am disappointed by the canceled event.,0.2,Sad,Cry
+38,2025-03-11 12:05:35,I feel overjoyed when I win a game.,0.97,Happy,Speech
+39,2025-03-11 12:10:45,I am irritated by the noisy environment.,0.3,Anger,Applause
+40,2025-03-11 12:15:55,I feel relaxed while reading a book.,0.85,Neutral,Breath
+41,2025-03-11 12:20:05,I am happy with the kind teacher.,0.93,Happy,Speech
+42,2025-03-11 12:25:15,I feel worried about the upcoming test.,0.25,Fear,Cough
+43,2025-03-11 12:30:25,I am excited to try new activities.,0.95,Surprise,Speech
+44,2025-03-11 12:35:35,I feel gloomy on rainy days.,0.22,Sad,Cry
+45,2025-03-11 12:40:45,I am fascinated by science experiments.,0.9,Neutral,Speech
+46,2025-03-11 12:45:55,I feel pleased when I help others.,0.92,Happy,Laughter
+47,2025-03-11 12:50:05,I am startled by a loud noise.,0.33,Surprise,Sneeze
+48,2025-03-11 12:55:15,I feel joyful during family time.,0.96,Happy,Speech
+49,2025-03-11 13:00:25,I am melancholic after saying goodbye.,0.15,Sad,Cry
+50,2025-03-11 13:05:35,I feel enthusiastic about the new project.,0.94,Surprise,Laughter
